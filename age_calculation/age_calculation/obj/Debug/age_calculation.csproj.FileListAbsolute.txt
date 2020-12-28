@@ -1,0 +1,7 @@
+C:\Users\Burfi\source\repos\C-lap-programs\age_calculation\age_calculation\bin\Debug\age_calculation.exe.config
+C:\Users\Burfi\source\repos\C-lap-programs\age_calculation\age_calculation\bin\Debug\age_calculation.exe
+C:\Users\Burfi\source\repos\C-lap-programs\age_calculation\age_calculation\bin\Debug\age_calculation.pdb
+C:\Users\Burfi\source\repos\C-lap-programs\age_calculation\age_calculation\obj\Debug\age_calculation.csprojAssemblyReference.cache
+C:\Users\Burfi\source\repos\C-lap-programs\age_calculation\age_calculation\obj\Debug\age_calculation.csproj.CoreCompileInputs.cache
+C:\Users\Burfi\source\repos\C-lap-programs\age_calculation\age_calculation\obj\Debug\age_calculation.exe
+C:\Users\Burfi\source\repos\C-lap-programs\age_calculation\age_calculation\obj\Debug\age_calculation.pdb
